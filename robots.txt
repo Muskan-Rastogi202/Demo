@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://muskan-rastogi202.github.io/Demo/sitemap.xml
